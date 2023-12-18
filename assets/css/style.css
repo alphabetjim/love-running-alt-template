@@ -47,7 +47,7 @@ h1 {
     list-style-type: none;
 }
 
-menu > li {
+#menu > li {
     margin-bottom: 1em;
 }
 
